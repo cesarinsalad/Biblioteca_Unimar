@@ -1,0 +1,5 @@
+Cien Años de Soledad,Gabriel García Márquez,1967,2
+La Metamorfosis,Franz Kafka,1915,1
+El Principito,Antoine de Saint-Exupéry,1943,3
+Orgullo y Prejuicio,Jane Austen,1813,3
+Fundamentos de Mercadotecnia,William J. Stanton, Charles Futrell,1988

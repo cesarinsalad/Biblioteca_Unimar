@@ -1,0 +1,4 @@
+Cesar Garcia,30065516,Ingenieria de Sistemas
+Carlos Garcia,30065517,Ingenieria de Sistemas
+Luis Manuel,30123846,Diseño Gráfico
+Manuel Delgado,30089511,Ingenieria de Sistemas
